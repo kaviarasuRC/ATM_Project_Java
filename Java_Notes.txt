@@ -1,0 +1,29 @@
+1. What is Java, why we are going for Java.
+2. What JDK, JRE and JVM and difference
+3. How JVM,JDK and JRE works in Java
+4. What is JIT
+5. What is Machine code and Byte code?
+6. Difference between JVM and JIT?
+7. Why Java is Platform independent?
+
+-------------------------------Above all are theory, but important----------------------------------
+
+1. Java Basic Syntax
+2. Data types
+3. Primitive Data types and Object data types
+4. Java Identifiers
+5. Java Variables
+6. Scope of variables
+7. Wrapper classes
+--------------------------------Above all are very basics of Java-----------------------------------
+
+1. Input and Output in Java
+2. Operators in java
+3. Strings
+4. Arrays
+------------------------------------------------------------------------------------------------------
+
+1. OOOPs Concepts in Java
+2. Interface, Abstraction, Inheritance, Encapsulations, Polymorphism and classes & Object.
+
+------------------------------Above all are Major concepts in java---------------------- 
